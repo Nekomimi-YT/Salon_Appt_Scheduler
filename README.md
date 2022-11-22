@@ -6,4 +6,6 @@ This project creates an interactive Bash program that uses PostgreSQL to track c
 
 ![Salon Scheduler Program](./img/salon_program.png)
 
-![Salon Scheduler Databases](./img/salon_data.png)
+## Database
+
+![Salon Scheduler Data](./img/salon_data.png)
