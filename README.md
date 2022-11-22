@@ -6,4 +6,5 @@ Output:
 ![Salon Scheduler Program](./img/salon_program.jpg)
 
 Databases:
+
 ![Salon Scheduler Databases](./img/salon_data.jpg)
