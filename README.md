@@ -8,4 +8,4 @@ This project creates an interactive Bash program that uses PostgreSQL to track c
 
 ## Database
 
-![Salon Scheduler Data](./img/salon_data.png)
+![Salon Scheduler Data](./img/salon_data.jpg)
