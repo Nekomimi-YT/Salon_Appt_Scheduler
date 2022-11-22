@@ -2,10 +2,10 @@
 
 This project creates an interactive Bash program that uses PostgreSQL to track customers and appointments for a salon.
 
-## Output
+## Program Output
 
 ![Salon Scheduler Program](./img/salon_program.png)
 
-## Database
+## PostgreSQL Databases
 
 ![Salon Scheduler Data](./img/salon_data.jpg)
